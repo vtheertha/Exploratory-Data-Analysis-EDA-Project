@@ -1,10 +1,6 @@
 # Exploratory-Data-Analysis-EDA-Project
 # 🛒 Olist E-Commerce: Exploratory Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-EDA-green)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 ## 📌 Project Overview
 End-to-end Exploratory Data Analysis on a real Brazilian e-commerce dataset
 (Olist) containing **99,441 orders** across **8 related tables** from 2016–2018.
@@ -117,7 +113,3 @@ A **9-day difference** separates happy from unhappy customers.
 
 ---
 
-## 👤 Author
-**Your Name**  
-Aspiring Data Analyst  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
